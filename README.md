@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">
+<h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=58&pause=1000&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+profile" alt="Typing SVG" />
   </a>
@@ -30,6 +30,10 @@
 
 <a href="https://github.com/y2xb" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://guns.lol/+2" target="_blank">
+  <img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 </div>
@@ -76,13 +80,13 @@ src="https://raw.githubusercontent.com/y2xb/y2xb/output/github-contribution-grid
 <img
 width="390"
 src="https://github-readme-streak-stats.herokuapp.com/?user=y2xb&theme=react&border_radius=10"
-alt="streak stats"
+alt="GitHub Streak"
 />
 
 <img
 width="390"
 src="https://github-readme-stats.vercel.app/api?username=y2xb&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-alt="GitHub stats"
+alt="GitHub Stats"
 />
 
 <br/>
@@ -90,7 +94,7 @@ alt="GitHub stats"
 <img
 width="325"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=y2xb&layout=compact&theme=react&border_radius=10&langs_count=8"
-alt="top languages"
+alt="Top Languages"
 />
 
 </div>
